@@ -1,0 +1,16 @@
+{
+  "name": "consolidacion_m5",
+  "version": "1.0.0",
+  "description": "Proyecto CRUD Node-Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan_Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "consolidacion_m5": "file:",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security"
+  }
+}

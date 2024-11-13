@@ -63,7 +63,6 @@ app.post("/animes", (req, res) => {
 });
 
 // Ruta para actualizar un anime por ID
-// Ruta para actualizar parcialmente un anime por ID
 app.put("/animes/:id", (req, res) => {
   const id = req.params.id;
   const camposActualizados = req.body;
